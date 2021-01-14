@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-npm",
+  "version": "1.0.0",
+  "description": "I don't know what to write for the first commit.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Juan Gonzalez <j3045771061@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juangr1803/random-messages-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juangr1803/random-messages-npm/issues"
+  },
+  "homepage": "https://github.com/Juangr1803/random-messages-npm#readme"
+}
